@@ -3,8 +3,8 @@
 Submitted by: Christian Choa <br/>
 Date: July 31, 2025
 
-### Adding:
-![Screenshot of output](output.png)
+### Output:
+![Screenshot of output](output1.png)
 
 
 
